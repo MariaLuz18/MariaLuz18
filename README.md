@@ -1,8 +1,7 @@
 <h1>¡Bienvenido/a a mi perfil de GitHub!</h1>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
   <p>¡Hola! Soy María Luz, una estudiante de Sistemas apasionada por aprender y explorar el mundo de la programación. Me considero curiosa y siempre busco nuevos desafíos para expandir mis conocimientos. Estoy especialmente interesada en el desarrollo full-stack y estoy trabajando para convertirme en una profesional versátil en el campo de la programación.</p>
-
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
    <h2>Acerca de mí</h2>
 
