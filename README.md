@@ -13,7 +13,7 @@
             <strong>🌱</strong> Me encuentro aprendiendo y practicando lenguajes como Java, C, C++ y JavaScript, los cuales me apasionan y en los que me siento más cómoda.
         </li>
         <li>
-            <strong>💻</strong> Tengo experiencia en el desarrollo web utilizando HTML y CSS, y estoy deseando profundizar mis conocimientos en estas tecnologías.
+            <strong>💻</strong> Tengo conocimientos en el desarrollo web utilizando HTML y CSS, y estoy deseando profundizar mis conocimientos en estas tecnologías.
         </li>
         <li>
             <strong>👯</strong> Estoy abierta a colaborar en proyectos emocionantes donde pueda aplicar y mejorar mis habilidades.
